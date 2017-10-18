@@ -137,7 +137,7 @@ Now we'll remove any existing margins on the title, and align items in the cente
 
 ![step 3](https://curriculum-content.s3.amazonaws.com/skills-based-js/basscss_step_3_items-centered_m0.png)
 
-We don't want to the image to take up more space than it should, so let's add a `flex-none` class to make it shrink:
+We don't want the image to take up more space than it should, so let's add a `flex-none` class to make it shrink:
 
 ```html
 <img class="flex-none" src="http://i.imgur.com/KveOp9g.png" alt="Scrappy-Doo">
